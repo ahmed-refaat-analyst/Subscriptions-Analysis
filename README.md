@@ -2,6 +2,9 @@
 
 ![Dashboard Screenshot](Subscriptions.PNG)
 
+## 🎥 Project Demo
+[Watch the demo video](Subscriptions.mp4)
+
 This Power BI project analyzes the sales data of warranty booklets tracked in the **'Subscription'** sheet, covering the period from March to September 2024.
 
 ## ✨ Features
